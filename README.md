@@ -133,3 +133,26 @@ For the next Chainle game, choose one habit to practice: making two short lists,
 Ready to apply the ideas? Play [Chainle](https://playchainle.org/) and look for one word that earns its place beside every clue.
 
 Questions or feedback: [support@playchainle.org](mailto:support@playchainle.org). Follow updates on [Pinterest](https://www.pinterest.com/veogen/) or connect on [LinkedIn](https://www.linkedin.com/in/drew-grant-200528328/).
+
+## Related Resources
+
+### Product and data
+
+- [Chainle on Product Hunt](https://www.producthunt.com/products/chainle-2)
+- [Chainle dataset on Hugging Face](https://huggingface.co/datasets/zhugetd/chainle)
+
+### Articles and guides
+
+- [Chainle: How to Find the Word That Connects the Clues — Medium](https://medium.com/@zhugetd/chainle-how-to-find-the-word-that-connects-the-clues-9c325760905b)
+- [How to Play Chainle: A Better Way to Connect Word Clues — DEV Community](https://dev.to/drew_grant_7c81ce9e84426a/how-to-play-chainle-a-better-way-to-connect-word-clues-2clg)
+- [Chainle: A Practical Guide to Testing Semantic Similarity — PromptZone](https://www.promptzone.com/drewgrant/chainle-a-practical-guide-to-testing-semantic-similarity-4pmp)
+- [Chainle article on note](https://note.com/brainy_ixora2792/n/nb7ac1b798806)
+- [Chainle article on Patreon](https://www.patreon.com/compareheights_org/posts/why-chainle-you-175300681)
+- [Chainle scoring article on Velog](https://velog.io/@drewgrant616/Chainle%EC%9D%80-%EB%8B%A8%EC%96%B4-%EC%97%B0%EA%B2%B0%EC%9D%84-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%A0%90%EC%88%98%EB%A1%9C-%EB%B0%94%EA%BF%80%EA%B9%8C)
+
+### Community posts
+
+- [Chainle on X](https://x.com/compareheights/status/2121273254220636195)
+- [Chainle on LinkedIn](https://www.linkedin.com/feed/update/urn:li:share:7527043111387217920/)
+- [Chainle on Peerlist](https://peerlist.io/scroll/post/ACTHR8D7P7R9DEN96HE8BAGGKLK86A)
+- [Chainle on Pinterest](https://ch.pinterest.com/pin/919367711460814711/)
